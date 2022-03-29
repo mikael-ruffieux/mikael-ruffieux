@@ -3,7 +3,7 @@
      style="width: 50px; height: auto; display: inline; margin-left: 15px;"
      src="https://i.kym-cdn.com/entries/icons/original/000/029/079/hellothere.jpg"
      alt="Hello There"></h2>
-
+<quote style="color: gray;"><i>- General Kenobi ... </i>🤖</quote>
 
 Global description.
 
