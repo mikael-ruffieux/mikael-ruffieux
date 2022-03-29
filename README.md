@@ -1,9 +1,9 @@
+<h3> Hello there
 <img 
-     style="width: 30px; height: auto;"
+     style="width: 50px; height: auto; display: inline"
      src="https://i.kym-cdn.com/entries/icons/original/000/029/079/hellothere.jpg"
-     alt="Hello There"> 
-
-### Hello there 👋
+     alt="Hello There"></h3>
+     
 
 <!--
 
