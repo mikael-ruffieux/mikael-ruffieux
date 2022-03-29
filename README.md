@@ -1,9 +1,11 @@
-### Hi there 👋
+<img 
+     style="width: 30px; height: auto;"
+     src="https://i.kym-cdn.com/entries/icons/original/000/029/079/hellothere.jpg"
+     alt="Hello There"> 
+
+### Hello there 👋
 
 <!--
-**mikael-ruffieux/mikael-ruffieux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
