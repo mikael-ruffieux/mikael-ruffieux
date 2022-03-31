@@ -3,11 +3,12 @@
      src="https://i.kym-cdn.com/entries/icons/original/000/029/079/hellothere.jpg"
      alt="Hello There"> Hello there !
 </h2>
-<div style="color: gray; text-align: right;"><i>- General Kenobi ... </i>🤖</div>
 
-Welcome to my git profile ! Name's Mikaël, I'm a full-stack developper wannabe and Star Wars lover 🌌
+<div style="color: gray; text-align: right;"><i>- General Kenobi ... </i>🤖</div><br/>
 
-Feel free to explore my projects, or continue to read about me ⬇️
+Welcome to my git profile ! Name's Mikaël, I'm a **full-stack developper wannabe** and **Star Wars lover** 🌌
+
+Feel free to explore my repositories, or read my list of **stuffs** ⬇️
 
 ## Stuff about me 👨🏻‍💻
 
@@ -19,7 +20,7 @@ Feel free to explore my projects, or continue to read about me ⬇️
 
 ---
 
-## Tech I'm fluent with 🔧
+## Stuff I'm fluent with 🔧
 
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white)
