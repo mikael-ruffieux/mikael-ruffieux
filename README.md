@@ -12,10 +12,11 @@ Feel free to explore my projects, or continue to read about me ⬇️
 ## Stuff about me 👨🏻‍💻
 
 - 🔴 [Redox Digital](https://redoxdigital.ch) Co-Founder
-- 🎥 Freelance videomaker
-- 💡 Media Engineering student
-- 👾 VR enthusiast
-- 🇨🇭 Swiss-made fondue lover
+- 🎥 Freelance Videomaker
+- 💡 Media Engineering Student
+- 🤖 [FutureKids](https://futurekids.io/)' Teacher 
+- 👾 VR Enthusiast
+- 🇨🇭 Swiss-made Fondue Lover
 
 ---
 
