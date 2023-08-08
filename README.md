@@ -41,3 +41,4 @@ Feel free to explore my repositories, or read my list of **stuffs** ⬇️
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=flat&logo=laravel&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=white)
 ![A-Frame](https://img.shields.io/badge/AFrame-EF2D5E?style=flat&logo=a-frame&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
